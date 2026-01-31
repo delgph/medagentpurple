@@ -1,0 +1,6 @@
+name: medagentpurple 
+version: 0.1.0
+description: Deterministic baseline purple agent for Phase One
+protocol: A2A
+endpoint: /a2a/solve
+author: your-name
